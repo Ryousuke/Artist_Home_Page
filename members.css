@@ -28,7 +28,7 @@
 }
 .member-list li{
     flex-shrink:0;
-    width:260px;
+    width: 300px;
     margin-left: 75px;
 }
 .member-list li:first-child{
