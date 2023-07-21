@@ -7,19 +7,21 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #000000;
-    text-shadow: 1px 1px 10px #4b2c14;
+    background-color: #000000;
+    text-shadow: 1px 1px 10px #a2a2a2;
 }
 
 .title h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 32pt;
     font-weight: bold;
+    color: #ffffff;
 }
 
 .title p {
     font-size: 14px;
     margin-top: 15px;
+    color: #ffffff;
 }
 
 .feature {
